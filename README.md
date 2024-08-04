@@ -1,4 +1,4 @@
-<h2 align="center">My name is Abdellatif BELMADY.👋</h2> 
+<h2 align="center">My name is Abdelali BELMADY.👋</h2> 
 
 <!--
 **abdelali-belmady/abdelali-belmady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
